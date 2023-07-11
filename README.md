@@ -1,6 +1,8 @@
 # Awesome Prompting Papers in Computer Vision
-A curated list of prompt-based papers in computer vision and vision-language learning. 
 [Tianyu Song](https://github.com/MingTian99) in [Dalian Polytechnic University]
+
+A curated list of prompt-based papers in computer vision and vision-language learning. 
+
 
 - [Awesome Prompting Papers in Computer Vision](#awesome-prompting-papers-in-computer-vision)
     - [Keywords](#keywords)
