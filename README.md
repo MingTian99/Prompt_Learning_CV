@@ -1,4 +1,4 @@
-#Prompting Papers in Computer Vision
+# Prompting Papers in Computer Vision
 
 [Tianyu Song](https://github.com/MingTian99) in [Dalian Polytechnic University]
 
