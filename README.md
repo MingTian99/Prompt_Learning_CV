@@ -1,6 +1,6 @@
 # Prompting Papers in Computer Vision
 
-[Shumin Fan](https://github.com/MingTian99) in [Dalian Polytechnic University]
+[Tianyu Song](https://github.com/MingTian99) in [Dalian Polytechnic University]
 
 A curated list of prompt-based papers in computer vision and vision-language learning. 
 
